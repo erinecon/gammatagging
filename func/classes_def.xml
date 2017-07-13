@@ -1,0 +1,7 @@
+<lcgdict>
+<class name="art::Assns<string, recob::Hit, void>"/>
+<class name="art::Wrapper<art::Assns<recob::Hit,string,void>>"/>
+<class name="art::Wrapper<art::Assns<string, recob::Hit, void>>"/>
+<class name="art::Assns<recob::Hit, string, void>"/>
+
+</lcgdict>
